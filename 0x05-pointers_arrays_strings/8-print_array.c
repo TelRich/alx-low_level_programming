@@ -15,3 +15,4 @@ else
 printf("%i, ", a[c]);
 }
 printf("\n");
+}
